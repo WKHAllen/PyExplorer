@@ -1,0 +1,1 @@
+('data', 'data', [], [('data\\icon.png', 'data\\icon.png', 'DATA')])
